@@ -1,6 +1,8 @@
-# 🦙 LlamaDupe
+# ✨ LlamaDupe
 
 > **Plugin Minecraft 1.21.1** — Dupliquez l'inventaire de vos lamas comme un pro !
+
+> Ce plugin a été conçu pour le serveur anarchie 4B4T.
 
 ---
 
