@@ -118,5 +118,3 @@ Ce plugin est distribué sous licence GNU GPL 3.0. Voir le fichier `LICENSE`.
 - Le plugin est désactivable/activable à chaud via la commande `/llamadupe`.
 
 ---
-
-## 🦙 Bonne duplication !
